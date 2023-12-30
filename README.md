@@ -7,7 +7,9 @@ This Python-based project utilizes YOLO (You Only Look Once) for object detectio
 
 ## Usage
 Clone the repository.
-Install required dependencies: pip install -r requirements.txt
+
+## Install required dependencies 
+pip install -r requirements.txt
 Place your image in the project folder.
 Run main.py to execute the cropping process.
 
